@@ -1,0 +1,2 @@
+>>> 6 Item Berhasil Masuk Keranjang!
+>>> Semua Item Berhasil Dihapus dari Keranjang!
